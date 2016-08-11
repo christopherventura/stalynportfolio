@@ -1,0 +1,108 @@
+/* Base Application Styles */
+
+body{
+	font-family: 'Raleway', sans-serif !important;
+	color: #555;
+	font-size: 1.5em;
+}
+
+
+h1{
+	font-size: 3em;
+}
+h2{
+	font-size: 2.5em;
+}
+h3{
+	font-size: 2em;
+}
+h4{
+	font-size: 1.5em;
+}
+h5{
+	font-size: 1em;
+}
+a{
+	color: #0c6b6b !important;
+}
+
+a:hover , .navbar-nav > li .active {
+	text-decoration: none !important;
+	color: #333 !important;
+}
+
+.navbar-default .navbar-brand {
+    color: #0c6b6b !important;
+}
+
+.progress {
+	margin: 33% auto;
+	max-width: 70%;
+}
+
+.fa-white{
+	color: #fff;
+}
+
+.fa-off{
+	margin-right: 5px;
+}
+
+
+.fa-lg-off{
+	margin-right: 15px;
+}
+.big-head {
+    height: 600px;
+    width: 100%;
+    background: #0c121b;
+    background: url('https://pamdecampphoto.files.wordpress.com/2013/01/pdc1597-version-2.jpg') center no-repeat #000;
+    box-shadow: 10px 90px 150px 200px #000 inset;
+    color: #fff;
+    background-size: 100%;
+    overflow: hidden;
+}
+
+.big-head a {
+	color: #0c6b6b  !important;
+}
+.big-head a:hover {
+	color: #fff  !important;
+}
+
+.funny {
+	color: #b20 !important;
+}
+.head-logo {
+	width: 200px;
+	margin-top: 5%;
+	position: relative;
+	opacity: 0.6;
+	filter: saturate(0%);
+	-webkit-filter: saturate(0%);
+}
+
+.solo-post {
+	margin: 35px 0;
+	padding-bottom: 35px;
+	border-bottom: 1px solid #eee;
+}
+
+
+.form-group {
+	position: relative;
+	margin-bottom: 20px;
+	height: 40px;
+}
+
+.social-row {
+	margin-top: 50px;
+}
+
+.solo-page {
+	margin-top: 100px;
+}
+
+.footer {
+	padding: 20px;
+}
